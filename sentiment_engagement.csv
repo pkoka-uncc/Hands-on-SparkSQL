@@ -1,0 +1,4 @@
+SentimentCategory,AvgLikes,AvgRetweets,AvgSentimentScore
+Positive,73.03,25.18,0.6006
+Neutral,73.25,28.95,0.0205
+Negative,71.39,25.67,-0.6026
